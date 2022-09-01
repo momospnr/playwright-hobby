@@ -1,0 +1,15 @@
+#header-container,
+#path,
+#aside,
+#footer-container {
+  display: none;
+}
+
+#page-wrapper .heading01 .title-text {
+  width: 912px !important;
+}
+
+#contentsContainer {
+  display: flex;
+  justify-content: center;
+}
